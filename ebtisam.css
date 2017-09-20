@@ -1,0 +1,26 @@
+header, footer {
+	background-color: #707070;
+}
+.nav{
+	list-style: none;
+}
+a{
+	color: purple;
+	text-decoration: none;
+}
+h2:nth-child(3){
+	color: blue;
+
+}
+article p a{
+	color:#990099;
+}
+
+
+img{
+	width: 250px;
+	height: 250px;
+}
+ol{
+	color: red;
+}
